@@ -1,8 +1,7 @@
 # Mathematics for Machine Learning
 
 Self-study notes based on Mathematics for Machine Learning
-(Deisenroth, Faisal, Ong — Cambridge University Press, 2020).
-Free PDF available at https://mml-book.com
+(Deisenroth, Faisal, and Ong, Cambridge University Press 2020).
 
 ## Purpose
 
